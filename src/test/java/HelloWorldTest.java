@@ -2,6 +2,9 @@
 import org.junit.Assert;
 import org.junit.Test;
 
+/**
+ * DO NOT change anything within this test file. All code should be written in HelloWorld.java
+ */
 public class HelloWorldTest {
     HelloWorld hw = new HelloWorld();
 
