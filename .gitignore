@@ -2,3 +2,7 @@ target/
 h2/
 history_log.txt
 testCases_log.txt
+
+history_log.txt
+testCases_log.txt
+commit-command.sh
